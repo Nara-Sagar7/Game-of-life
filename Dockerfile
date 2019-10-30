@@ -3,4 +3,4 @@
 From tomcat:8
 
 ## now i am copying the file 
-COPY target/*.war /user/local/tomcat/webapps/
+COPY **/*.war /user/local/tomcat/webapps/
